@@ -2,6 +2,7 @@
 An ActiveRecord-style ORM query interface for [Amazon CloudSearch](https://aws.amazon.com/cloudsearch/).
 
 [![Build Status](https://travis-ci.org/awslabs/cloudsearchable.svg)](https://travis-ci.org/awslabs/cloudsearchable)
+[![Coverage Status](https://coveralls.io/repos/awslabs/cloudsearchable/badge.svg?branch=master&service=github)](https://coveralls.io/github/awslabs/cloudsearchable?branch=master)
 
 ## Installation
 Add to your Gemfile: gem 'cloudsearchable'. Run bundle or: gem install cloudsearchable.
